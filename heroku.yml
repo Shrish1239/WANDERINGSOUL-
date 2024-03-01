@@ -1,0 +1,5 @@
+build:
+  docker:
+    Japanese: Dockerfile
+run:
+  Japanese: python3 -m main.py
