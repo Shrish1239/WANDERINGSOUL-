@@ -18,7 +18,7 @@ async def leave(e):
     if e.sender_id in SUDO_USERS:
 
         if len(e.text) > 7:
-            event = await e.reply("» ꜱᴘᴀᴍᴍᴇʀꜱ ʟᴇᴀᴠɪɴɢ ⌛...")
+            event = await e.reply("» 𝚂𝙿𝙰𝙼𝙼𝙴𝚁 𝙻𝙴𝙰𝚅𝙸𝙽𝙶 𝙱𝙰𝙱𝚈 𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰𝙽𝙳 𝚆𝙰𝚃𝙲𝙷❤️💋...")
             mkl = e.text.split(" ", 1)
             try:
                 await event.client(LeaveChannelRequest(int(mkl[1])))
@@ -26,10 +26,10 @@ async def leave(e):
                 await event.edit(str(e))
         else:
              if e.is_private:
-                  alt = f"**» ʏᴏᴜ ᴄᴀɴ'ᴛ ᴅᴏ ᴛʜɪꜱ ʜᴇʀᴇ !!**\n\n» {hl}ʟᴇᴀᴠɪɴɢ : ᴛʏᴘᴇ ᴛʜɪꜱ ɪɴ ɢʀᴏᴜᴘ"
+                  alt = f"**» 𝚈𝙾𝚄 𝙲𝙰𝙽'𝚃 𝙳𝙾 𝚃𝙷𝙸𝚂 𝙷𝙴𝚁𝙴 𝙱𝙰𝙱𝚈 💋👻 !!**\n\n» {hl}𝙻𝙴𝙰𝚅𝙸𝙽𝙶 : 𝚃𝚈𝙿𝙴 𝚃𝙷𝙸𝚂 𝙸𝙽 𝙶𝚁𝙾𝚄𝙿"
                   await e.reply(alt)
              else:
-                  event = await e.reply("» ꜱᴘᴀᴍᴍᴇʀꜱ ʟᴇᴀᴠɪɴɢ ⌛...")
+                  event = await e.reply("» 𝚂𝙿𝙰𝙼𝙼𝙴𝚁 𝙻𝙴𝙰𝚅𝙸𝙽𝙶 𝙱𝙰𝙱𝚈 𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰𝙽𝙳 𝚆𝙰𝚃𝙲𝙷❤️💋...")
                   try:
                       await event.client(LeaveChannelRequest(int(e.chat_id)))
                   except Exception as e:
