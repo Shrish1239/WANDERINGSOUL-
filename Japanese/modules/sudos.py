@@ -23,7 +23,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"» ᴘʀᴏᴍᴏᴛɪɴɢ ᴜꜱᴇʀ ɪɴ ꜱᴜᴅᴏ 🫂 ...")
+        ok = await event.reply(f"» 𝙿𝚁𝙾𝙼𝙾𝚃𝙸𝙽𝙶 𝚄𝚂𝙴𝚁 𝙸𝙽 𝚂𝚄𝙳𝙾 🫂 ...")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
@@ -37,17 +37,17 @@ async def addsudo(event):
             reply_msg = await event.get_reply_message()
             target = reply_msg.sender_id
         except:
-            await ok.edit("» ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ 👀 !!")
+            await ok.edit("» 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰 𝚄𝚂𝙴𝚁 👀 !!")
             return
 
         if str(target) in sudousers:
-            await ok.edit(f"ᴛʜɪꜱ ᴜꜱᴇʀ ɪꜱ ᴀʟʀᴇᴀᴅʏ ɪɴ ꜱᴜᴅᴏ ʟɪꜱᴛ 💕 !!")
+            await ok.edit(f"𝚃𝙷𝙸𝚂 𝚄𝚂𝙴𝚁 𝙸𝚂 𝙰𝙻𝚁𝙴𝙰𝙳𝚈 𝙰𝙳𝙳𝙴𝙳 𝙸𝙽 𝚂𝚄𝙳𝙾 𝙻𝙸𝚂𝚃 💕 !!")
         else:
             if len(sudousers) > 0:
                 newsudo = f"{sudousers} {target}"
             else:
                 newsudo = f"{target}"
-            await ok.edit(f"» **ɴᴇᴡ ꜱᴜᴅᴏ ᴜꜱᴇʀ**: `{target}`\n» `ʀᴇꜱᴛᴀʀᴛɪɴɢ ⌛ ...`")
+            await ok.edit(f"» **𝙽𝙴𝚆 𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁**: `{target}`\n» `ʀᴇꜱᴛᴀʀᴛɪɴɢ ⌛ ...`")
             heroku_var["SUDO_USERS"] = newsudo    
     
     elif event.sender_id in SUDO_USERS:
