@@ -21,7 +21,7 @@ HELP_BUTTON = [
       Button.inline("✧ 𝙾𝚆𝙽𝙴𝚁 ✧", data="owner")
     ],
     [
-      Button.url("❖ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ❖", "https://t.me/Japanese_Userbot_Chat")
+      Button.url("✧ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✧", "https://t.me/Japanese_Userbot_Chat")
     ]
   ]
 
@@ -208,7 +208,7 @@ async def helpback(event):
                 Button.inline("✧ 𝙾𝚆𝙽𝙴𝚁 ✧", data="owner")
               ],
               [
-                Button.url("❖ ꜱᴜᴘᴘᴏʀᴛ ❖", "https://t.me/Japanese_Userbot_Chat")
+                Button.url("✧ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✧", "https://t.me/Japanese_Userbot_Chat")
               ]
             ]
           )
