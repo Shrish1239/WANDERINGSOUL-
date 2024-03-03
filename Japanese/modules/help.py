@@ -45,7 +45,7 @@ async def help(event):
               buttons=HELP_BUTTON
               )
         except Exception as e:
-            await event.client.send_message(event.chat_id, f"ᴀɴ ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ!\n\n**ᴇʀʀᴏʀ:** {str(e)}")
+            await event.client.send_message(event.chat_id, f"𝙰𝙽 𝙴𝚇𝙲𝙴𝙿𝚃𝙸𝙾𝙽 𝙾𝙲𝙲𝚄𝚁𝚁𝙴𝙳!\n\n**𝙴𝚁𝚁𝙾𝚁:** {str(e)}")
 
 
 extra_msg = f"""
