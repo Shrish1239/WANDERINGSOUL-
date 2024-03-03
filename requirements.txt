@@ -5,7 +5,3 @@ flask
 flask_restful
 gunicorn
 pyrogram
-pyrofork
-tgcrypto
-python-dotenv
-aiohttp
