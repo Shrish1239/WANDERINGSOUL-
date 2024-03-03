@@ -200,12 +200,12 @@ async def helpback(event):
             HELP_STRING,
             buttons=[
               [
-                Button.inline("❖ ꜱᴘᴀᴍ ❖", data="spam"),
-                Button.inline("❖ ʀᴀɪᴅ ❖", data="raid")
+                Button.inline("✧ 𝚂𝙿𝙰𝙼 ✧", data="spam"),
+                Button.inline("✧ 𝚁𝙰𝙸𝙳 ✧", data="raid")
               ],
               [
-                Button.inline("❖ ᴇxᴛʀᴀꜱ ❖", data="extra"),
-                Button.inline("❖ ᴏᴡɴᴇʀ ❖", data="owner")
+                Button.inline("✧ 𝙴𝚇𝚃𝚁𝙰𝚂 ✧", data="extra"),
+                Button.inline("✧ 𝙾𝚆𝙽𝙴𝚁 ✧", data="owner")
               ],
               [
                 Button.url("❖ ꜱᴜᴘᴘᴏʀᴛ ❖", "https://t.me/Japanese_Userbot_Chat")
