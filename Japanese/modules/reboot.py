@@ -20,7 +20,7 @@ import asyncio
 @X10.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        await e.reply(f"`ʀᴇꜱᴛᴀʀᴛɪɴɢ ⌛ ...`")
+        await e.reply(f"`𝚁𝙴𝚂𝚃𝙰𝚁𝚃𝙸𝙽𝙶 𝙱𝙰𝙱𝚈 𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰𝙽𝙳 𝚆𝙰𝚃𝙲𝙷 ❤️💋 ...`")
         try:
             await X1.disconnect()
         except Exception:
