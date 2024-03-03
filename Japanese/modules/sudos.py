@@ -47,7 +47,7 @@ async def addsudo(event):
                 newsudo = f"{sudousers} {target}"
             else:
                 newsudo = f"{target}"
-            await ok.edit(f"» **𝙽𝙴𝚆 𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁**: `{target}`\n» `ʀᴇꜱᴛᴀʀᴛɪɴɢ ⌛ ...`")
+            await ok.edit(f"» **𝙽𝙴𝚆 𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁**: `{target}`\n» `𝚁𝙴𝚂𝚃𝙰𝚁𝚃𝙸𝙽𝙶 𝙱𝙰𝙱𝚈 𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰𝙽𝙳 𝚆𝙰𝚃𝙲𝙷 ❤️💋 ...`")
             heroku_var["SUDO_USERS"] = newsudo    
     
     elif event.sender_id in SUDO_USERS:
