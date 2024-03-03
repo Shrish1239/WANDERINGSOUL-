@@ -8,20 +8,20 @@ HELP_STRING = f"""
 
 **𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Nobitaa_xd)** ✨
 
-**- ᴄʜᴀɴɴᴇʟ: [Jᴀᴘᴀɴᴇsᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Japanese_Userbot)**
-**- ꜱᴜᴘᴘᴏʀᴛ: [Jᴀᴘᴀɴᴇsᴇ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/Japanese_Userbot_Chat)**
+**- 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: [Jᴀᴘᴀɴᴇsᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Japanese_Userbot)**
+**- 𝚂𝚄𝙿𝙿𝙾𝚁𝚃: [Jᴀᴘᴀɴᴇsᴇ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/Japanese_Userbot_Chat)**
 """
 HELP_BUTTON = [
     [
       Button.inline("❖ 𝚂𝙿𝙰𝙼 ❖", data="spam"),
-      Button.inline("❖ ʀᴀɪᴅ ❖", data="raid")
+      Button.inline("❖ 𝚁𝙰𝙸𝙳 ❖", data="raid")
     ],
     [
-      Button.inline("❖ ᴇxᴛʀᴀꜱ ❖", data="extra"),
-      Button.inline("❖ ᴏᴡɴᴇʀ ❖", data="owner")
+      Button.inline("❖ 𝙴𝚇𝚃𝚁𝙰𝚂 ❖", data="extra"),
+      Button.inline("❖ 𝙾𝚆𝙽𝙴𝚁 ❖", data="owner")
     ],
     [
-      Button.url("❖ ꜱᴜᴘᴘᴏʀᴛ ❖", "https://t.me/Japanese_Userbot_Chat")
+      Button.url("❖ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ❖", "https://t.me/Japanese_Userbot_Chat")
     ]
   ]
 
