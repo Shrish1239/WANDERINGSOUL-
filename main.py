@@ -20,7 +20,7 @@ def load_plugins(plugin_name):
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
     sys.modules["Japanese.modules." + plugin_name] = load
-    print("Jᴀᴘᴀɴᴇsᴇ ʜᴀꜱ ɪᴍᴘᴏʀᴛᴇᴅ" + plugin_name)
+    print("𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝙱𝚘𝚝 𝙷𝚊𝚜 𝙸𝚖𝚙𝚘𝚛𝚝𝚎𝚍" + plugin_name)
 
 
 files = glob.glob("Japanese/modules/*.py")
