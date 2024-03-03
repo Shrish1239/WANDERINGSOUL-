@@ -13,12 +13,12 @@ HELP_STRING = f"""
 """
 HELP_BUTTON = [
     [
-      Button.inline("❖ 𝚂𝙿𝙰𝙼 ❖", data="spam"),
-      Button.inline("❖ 𝚁𝙰𝙸𝙳 ❖", data="raid")
+      Button.inline("✧ 𝚂𝙿𝙰𝙼 ✧", data="spam"),
+      Button.inline("✧ 𝚁𝙰𝙸𝙳 ✧", data="raid")
     ],
     [
-      Button.inline("❖ 𝙴𝚇𝚃𝚁𝙰𝚂 ❖", data="extra"),
-      Button.inline("❖ 𝙾𝚆𝙽𝙴𝚁 ❖", data="owner")
+      Button.inline("✧ 𝙴𝚇𝚃𝚁𝙰𝚂 ✧", data="extra"),
+      Button.inline("✧ 𝙾𝚆𝙽𝙴𝚁 ✧", data="owner")
     ],
     [
       Button.url("❖ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ❖", "https://t.me/Japanese_Userbot_Chat")
