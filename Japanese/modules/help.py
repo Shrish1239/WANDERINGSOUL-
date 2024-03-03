@@ -4,7 +4,7 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDL
 
 
 HELP_STRING = f"""
-**[Jᴀᴘᴀɴᴇsᴇ ꜱᴘᴀᴍ ʙᴏᴛ](https://t.me/Nobitaa_xd) ʜᴇʟᴘ ᴍᴇɴᴜ** ❤️
+**[𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Nobitaa_xd) ʜᴇʟᴘ ᴍᴇɴᴜ** ❤️
 
 **ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [Jᴀᴘᴀɴᴇsᴇ](https://t.me/Nobitaa_xd)** ✨
 
