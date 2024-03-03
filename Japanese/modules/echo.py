@@ -29,9 +29,9 @@ async def echo(event):
             if user_id in DEV:
                 await event.reply("𝙽𝙾𝙿𝙴,𝚃𝙷𝙸𝚂 𝙶𝚄𝚈 𝙸𝚂 𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴'𝚂 𝙾𝚆𝙽𝙴𝚁 𝙵𝚄𝙲𝙺𝙸𝙽𝙶 𝙲𝙾𝚆𝙰𝚁𝙳 𝙱𝙰𝙱𝚈 𝙰𝙷𝙷𝙷𝙷𝙷𝙷𝙷 ❤️💋")
             elif user_id == OWNER_ID:
-                await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ ❌")
+                await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ ❤️")
             elif user_id in SUDO_USERS:
-                await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ꜱᴜᴅᴏ ᴜꜱᴇʀ ❌")
+                await event.reply("𝙽𝙾𝙿𝙴, 𝚃𝙷𝙸𝚂 𝙶𝚄𝚈 𝙸𝚂 𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁 𝙱𝙰𝙱𝚈 ❤️💋")
             else:
                 try:
                     alt = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
@@ -42,12 +42,12 @@ async def echo(event):
                 global ECHO
                 check = f"{user_id}_{event.chat_id}"
                 if check in ECHO:
-                    await event.reply("» ᴇᴄʜᴏ ɪꜱ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ✅ !!")
+                    await event.reply("» 𝙴𝙲𝙷𝙾 𝙸𝚂 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴𝙳 ✅ !!")
                 else:
                     ECHO.append(check)
-                    await event.reply("» ᴇᴄʜᴏ ɪꜱ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ✅ !!")
+                    await event.reply("» 𝙴𝙲𝙷𝙾 𝙸𝚂 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴𝙳 ✅ !!")
         else:
-            await event.reply(f"ᴇᴄʜᴏ:\n  » {hl}ᴇᴄʜᴏ <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await event.reply(f"ᴇᴄʜᴏ:\n  » {hl}𝙴𝙲𝙷𝙾 <𝚁𝚎𝚙𝚕𝚢 𝚃𝚘 𝙰 𝚄𝚜𝚎𝚛>")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%srmecho(?: |$)(.*)" % hl))
@@ -75,11 +75,11 @@ async def rmecho(event):
 
             if check in ECHO:
                 ECHO.remove(check)
-                await event.reply("» ᴇᴄʜᴏ ɪꜱ ꜱᴛᴏᴘᴘᴇᴅ !! ✅")
+                await event.reply("» 𝙴𝙲𝙷𝙾 𝙸𝚂 𝚂𝚃𝙾𝙿𝙿𝙴𝙳 !! ✅")
             else:
-                await event.reply("» ᴇᴄʜᴏ ɪꜱ ꜱᴛᴏᴘᴘᴇᴅ !! 👀")
+                await event.reply("» 𝙴𝙲𝙷𝙾 𝙸𝚂 𝚂𝚃𝙾𝙿𝙿𝙴𝙳 !! 👀")
         else:
-            await event.reply(f"ʀᴇᴍᴏᴠᴇ ᴇᴄʜᴏ:\n  » {hl}ʀᴍᴇᴄʜᴏ <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await event.reply(f"𝚁𝙴𝙼𝙾𝚅𝙴 𝙴𝙲𝙷𝙾:\n  » {hl}𝚁𝙼𝙴𝙲𝙷𝙾 <𝚁𝚎𝚙𝚕𝚢 𝚃𝚘 𝙰 𝚄𝚜𝚎𝚛>")
 
 
 @X1.on(events.NewMessage(incoming=True))
