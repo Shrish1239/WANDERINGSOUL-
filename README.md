@@ -36,6 +36,8 @@
 • 𝑩𝑶𝑻_𝑻𝑶𝑲𝑬𝑵10 | 𝑮𝒆𝒕 𝑻𝒉𝒊𝒔 𝑭𝒓𝒐𝒎 [𝑩𝒐𝒕 𝑭𝒂𝒕𝒉𝒆𝒓](https://t.me/BotFather)
 
 
+<h1 align="center">𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺 & 𝑰𝑻𝑺 𝑫𝑬𝑺𝑪𝑹𝑰𝑷𝑻𝑰𝑶𝑵</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺 & 𝑰𝑻𝑺 𝑫𝑬𝑺𝑪𝑹𝑰𝑷𝑻𝑰𝑶𝑵
 
 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏
