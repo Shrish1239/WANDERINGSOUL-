@@ -32,3 +32,9 @@
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Japanese-Userbots/Japanese-X-Spambot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+
+## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+
+<p align="center"><a href="https://t.me/Japanese_Userbot_Chat"><img src="https://img.shields.io/badge/𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-white?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+
+<p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-white?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
