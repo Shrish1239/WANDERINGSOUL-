@@ -97,4 +97,4 @@
     ─「 𝑪𝒓𝒆𝒅𝒊𝒕 」─
 </h3>
 
-- <b> 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  𝑨𝒏𝒅  [⏤͟͞〲Dᴇᴠɪʟ ˹AFK˼](https://github.com/VARC9210) </b>
+- <b> 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  𝑨𝒏𝒅  [AUTHOR BOT](https://github.com/VARC9210/AUTHOR) </b>
