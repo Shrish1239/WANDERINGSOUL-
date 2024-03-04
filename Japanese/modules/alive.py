@@ -8,17 +8,17 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-pongg = "𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝚋𝚘𝚝 𝙸𝚜 𝙰𝚕𝚒𝚟𝚎 𝙱𝚊𝚋𝚢❤️💋"
+pongg = "𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝚋𝚘𝚝 𝙸𝚜 𝙰𝚕𝚒𝚟𝚎"
 PIC = "https://graph.org/file/d0cea91a72399897dfd75.mp4"
-Alivemsg = "𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝚋𝚘𝚝 𝙷𝚎𝚛𝚎 𝚋𝚊𝚋𝚢❤️💋"
+Alivemsg = "𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝚋𝚘𝚝 𝙷𝚎𝚛𝚎 𝚋𝚊𝚋𝚢"
 
-TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌=≡❰ • 𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝚋𝚘𝚝 𝙸𝚜 𝙰𝚕𝚒𝚟𝚎 𝙱𝚊𝚋𝚢❤️💋 • ❱≡=\n"
-TEXT = f"‌‌‌‌‌‌‌‌‌❤️ ✥✥ 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂 ✥✥ ❤️\n"
+TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌=≡❰ • 𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎 𝚇 𝚂𝚙𝚊𝚖𝚋𝚘𝚝 𝙸𝚜 𝙰𝚕𝚒𝚟𝚎 • ❱≡=\n"
+TEXT = f" ✥✥ 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂 ✥✥ \n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖➖\n"
 TEXT += f"**• 𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**: `3.11.3`\n"
 TEXT += f"**• 𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**: `1.0`\n"
-TEXT += f"**• 𝙶𝚁𝙾𝚄𝙿 ❤️: [𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝙶𝚁𝙾𝚄𝙿 ✨](https://t.me/Japanese_Userbot_Chat)**\n"
-TEXT += f"**• 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ✨: [𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ✨](https://t.me/Japanese_Userbot)**\n"
+TEXT += f"**• 𝙶𝚁𝙾𝚄𝙿 ❤️: [𝚂𝚄𝙿𝙿𝙾𝚁𝚃](https://t.me/Japanese_Userbot_Chat)**\n"
+TEXT += f"**• 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ✨: [𝚄𝙿𝙳𝙰𝚃𝙴𝚂](https://t.me/Japanese_Userbot)**\n"
 TEXT += f"**• 𝙳𝙴𝚅 🫂: [𝙽𝙾𝙱𝙸𝚃𝙰 𝚇𝙳 ✨](https://t.me/Nobitaa_xd)**\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖➖"
                                   
