@@ -1,5 +1,5 @@
 # Japanese-X-Spambot
-
+![IMG_20240304_122928_340](https://github.com/Japanese-Userbots/Japanese-X-Spambot/assets/156512147/f2db2cfc-3a8a-412a-9de6-5d11c6ab56f7)
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
