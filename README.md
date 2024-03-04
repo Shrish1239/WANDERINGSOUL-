@@ -3,6 +3,14 @@
 
 ![IMG_20240304_122928_340](https://github.com/Japanese-Userbots/Japanese-X-Spambot/assets/156512147/f2db2cfc-3a8a-412a-9de6-5d11c6ab56f7)
 
+<p align="center">
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Spambot/stargazers"><img src="https://img.shields.io/github/stars/Japanese-Userbots/Japanese-X-Spambot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Spambot/network/members"> <img src="https://img.shields.io/github/forks/Japanese-Userbots/Japanese-X-Spambot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Spambot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Spambot"> <img src="https://img.shields.io/github/repo-size/Japanese-Userbots/Japanese-X-Spambot?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/nobitaaxd/Japanese-Userbots/Japanese-X-Spambot/commits/nobitaaxd"> <img src="https://img.shields.io/github/last-commit/Japanese-Userbots/Japanese-X-Spambot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+</p>
+
 <h1 align="center">𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑺𝒑𝒂𝒎𝒃𝒐𝒕</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 𝑹𝑬𝑸𝑼𝑰𝑹𝑬𝑫 𝑽𝑨𝑹𝑰𝑩𝑳𝑬𝑺 & 𝑫𝑬𝑺𝑪𝑹𝑰𝑷𝑻𝑰𝑶𝑵
