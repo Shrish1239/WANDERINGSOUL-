@@ -82,6 +82,7 @@
 ! In short, Fork At Your Own Risk    
 
                💖 Thanks for using our bot 💖
+
 ```
 
 ## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
