@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/Japanese-Userbots/Japanese-X-Spambot",
+    "repository": "https://github.com/Ayushjha9988/WANDERINGSOUL-",
     "env": {
       "BOT_TOKEN": {
         "description": "ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ ʙᴏᴛꜰᴀᴛʜᴇʀ",
@@ -67,12 +67,12 @@
       },
       "SUDO_USERS": {
         "description": "ꜱᴜᴅᴏ ᴜꜱᴇʀꜱ ɪᴅ ꜱᴘᴀᴄᴇ ʙʏ ꜱᴘᴀᴄᴇ",
-        "value": "6694740726",
+        "value": "6327970376",
         "required": false
       },
       "OWNER_ID": {
         "description": "ᴏᴡɴᴇʀ ɪᴅ",
-        "value": "6694740726",
+        "value": "6327970376",
         "required": true
       },
       "HEROKU_API_KEY": {
