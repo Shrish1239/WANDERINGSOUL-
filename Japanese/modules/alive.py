@@ -8,18 +8,18 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-pongg = "Jᴀᴘᴀɴᴇsᴇ"
+pongg = "WANDERING SOUL"
 PIC = "https://graph.org/file/d0cea91a72399897dfd75.mp4"
-Alivemsg = "Jᴀᴘᴀɴᴇsᴇ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
+Alivemsg = "WANDERING SOUL x SPAM ʜᴇʀᴇ"
 
-TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌=≡❰ • Jᴀᴘᴀɴᴇsᴇ ɪꜱ ᴀʟɪᴠᴇ • ❱≡=\n"
+TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌=≡❰ • WANDERING SOUL ɪꜱ ᴀʟɪᴠᴇ • ❱≡=\n"
 TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌🚀 ʙᴏᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 🚀\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖➖\n"
 TEXT += f"**• ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ**🐍: `3.11.3`\n"
 TEXT += f"**• ꜱᴘᴀᴍʙᴏᴛ ᴠᴇʀꜱɪᴏɴ**⚙️: `1.0`\n"
-TEXT += f"**• ɢʀᴏᴜᴘ ❤️: [Jᴀᴘᴀɴᴇsᴇ ɢʀᴏᴜᴘ ✨](https://t.me/Japanese_Userbot_Chat)**\n"
-TEXT += f"**• ᴄʜᴀɴɴᴇʟ ✨: [Jᴀᴘᴀɴᴇsᴇ ᴄʜᴀɴɴᴇʟ ✨](https://t.me/Japanese_Userbot)**\n"
-TEXT += f"**• ᴅᴇᴠ 🫂: [Nᴏʙɪᴛᴀ Xᴅ ✨](https://t.me/Nobitaa_xd)**\n"
+TEXT += f"**• ɢʀᴏᴜᴘ ❤️: [NETWORK ✨](https://t.me/sudeokeliyeaajaobclog)**\n"
+TEXT += f"**• ᴄʜᴀɴɴᴇʟ ✨: [SUPPORT ✨](https://t.me/sudeokeliyeaajaobclog)**\n"
+TEXT += f"**• ᴅᴇᴠ 🫂: [SOUL XD ✨](https://t.me/Homosapienhu)**\n"
 TEXT += f"➖➖➖➖➖➖➖➖➖➖➖➖"
                                   
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hl))
@@ -39,8 +39,8 @@ async def alive(event):
                                   caption=TEXT,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Japanese_Userbot"),
-        Button.url("ꜱᴜᴘᴘᴏʀᴛ", "https://t.me/Japanese_Userbot_Chat")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/sudeokeliyeaajaobclog"),
+        Button.url("ꜱᴜᴘᴘᴏʀᴛ", "https://t.me/sudeokeliyeaajaobclog")
         ],
         ]
         )
