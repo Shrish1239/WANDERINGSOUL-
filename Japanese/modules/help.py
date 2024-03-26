@@ -4,12 +4,12 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDL
 
 
 HELP_STRING = f"""
-**[𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Nobitaa_xd) 𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄** ❤️
+**[𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Homosapienhu) 𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄** ❤️
 
-**𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Nobitaa_xd)** ✨
+**𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Homosapienhu)** ✨
 
-**- 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: [Jᴀᴘᴀɴᴇsᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Japanese_Userbot)**
-**- 𝚂𝚄𝙿𝙿𝙾𝚁𝚃: [Jᴀᴘᴀɴᴇsᴇ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/Japanese_Userbot_Chat)**
+**- 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 ᴄʜᴀɴɴᴇʟ](https://t.me/sudeokeliyeaajaobclog)**
+**- 𝚂𝚄𝙿𝙿𝙾𝚁𝚃: [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 ꜱᴜᴘᴘᴏʀᴛ](https://t.me/sudeokeliyeaajaobclog)**
 """
 HELP_BUTTON = [
     [
@@ -21,7 +21,7 @@ HELP_BUTTON = [
       Button.inline("✧ 𝙾𝚆𝙽𝙴𝚁 ✧", data="owner")
     ],
     [
-      Button.url("✧ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✧", "https://t.me/Japanese_Userbot_Chat")
+      Button.url("✧ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✧", "https://t.me/sudeokeliyeaajaobclog")
     ]
   ]
 
@@ -270,4 +270,4 @@ async def help_extra(event):
             buttons=[[Button.inline("🔙 ʙᴀᴄᴋ", data="help_back"),],],
             )
     else:
-        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ Jᴀᴘᴀɴᴇsᴇ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @Nobitaa_xd", cache_time=0, alert=True) 
+        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ 𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @Homosapienhu", cache_time=0, alert=True) 
