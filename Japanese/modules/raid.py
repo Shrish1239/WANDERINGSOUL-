@@ -35,7 +35,7 @@ async def raid(e):
 
         try:
             if uid in DEV:
-                await e.reply("𝙽𝙾𝙿𝙴,𝚃𝙷𝙸𝚂 𝙶𝚄𝚈 𝙸𝚂 𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴'𝚂 𝙾𝚆𝙽𝙴𝚁 𝙵𝚄𝙲𝙺𝙸𝙽𝙶 𝙲𝙾𝚆𝙰𝚁𝙳 𝙱𝙰𝙱𝚈 𝙰𝙷𝙷𝙷𝙷𝙷𝙷𝙷 ❤️💋 ")
+                await e.reply("𝙽𝙾𝙿𝙴,𝚃𝙷𝙸𝚂 𝙶𝚄𝚈 𝙸𝚂 𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶'𝚂 𝙾𝚆𝙽𝙴𝚁 𝙵𝚄𝙲𝙺𝙸𝙽𝙶 𝙲𝙾𝚆𝙰𝚁𝙳 𝙱𝙰𝙱𝚈 𝙰𝙷𝙷𝙷𝙷𝙷𝙷𝙷 ❤️💋 ")
             elif uid == OWNER_ID:
                 await e.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ ❤️")
             elif uid in SUDO_USERS:
@@ -100,7 +100,7 @@ async def rraid(e):
         try:
             user_id = entity.id
             if user_id in DEV:
-                await e.reply("𝙽𝙾𝙿𝙴,𝚃𝙷𝙸𝚂 𝙶𝚄𝚈 𝙸𝚂 𝙹𝙰𝙿𝙰𝙽𝙴𝚂𝙴'𝚂 𝙾𝚆𝙽𝙴𝚁 𝙵𝚄𝙲𝙺𝙸𝙽𝙶 𝙲𝙾𝚆𝙰𝚁𝙳 𝙱𝙰𝙱𝚈 𝙰𝙷𝙷𝙷𝙷𝙷𝙷𝙷 ❤️💋 ")
+                await e.reply("𝙽𝙾𝙿𝙴,𝚃𝙷𝙸𝚂 𝙶𝚄𝚈 𝙸𝚂 𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶'𝚂 𝙾𝚆𝙽𝙴𝚁 𝙵𝚄𝙲𝙺𝙸𝙽𝙶 𝙲𝙾𝚆𝙰𝚁𝙳 𝙱𝙰𝙱𝚈 𝙰𝙷𝙷𝙷𝙷𝙷𝙷𝙷 ❤️💋 ")
             elif user_id == OWNER_ID:
                 await e.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ ❤️")
             elif user_id in SUDO_USERS:
