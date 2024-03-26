@@ -63,7 +63,7 @@
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Japanese-Userbots/Japanese-X-Spambot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Ayushjha9988/WANDERINGSOUL-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 # 𝑫𝑰𝑺𝑪𝑳𝑨𝑰𝑴𝑬𝑹
 
@@ -87,9 +87,9 @@
 
 ## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
 
-<p align="center"><a href="https://t.me/Japanese_Userbot_Chat"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/sudeokeliyeaajaobclog"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
-<p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/sudeokeliyeaajaobclog"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 
 ### 𝑪𝒓𝒆𝒅𝒊𝒕
@@ -98,4 +98,4 @@
     ─「 𝑪𝒓𝒆𝒅𝒊𝒕 」─
 </h3>
 
-- <b> 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  𝑨𝒏𝒅  [STORM BOT](https://github.com/VARC9210/STORM) </b>
+- <b> 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 [AYU_𝐗𝐃](https://github.com/Ayush9988)  𝑨𝒏𝒅  [STORM BOT](https://github.com/VARC9210/STORM) </b>
