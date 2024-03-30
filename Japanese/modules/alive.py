@@ -9,7 +9,7 @@ from time import time
 from datetime import datetime
 
 pongg = "WANDERING SOUL"
-PIC = "https://graph.org/file/d0cea91a72399897dfd75.mp4"
+PIC = "https://graph.org/file/b632ff6a07fe43453f553.mp4"
 Alivemsg = "WANDERING SOUL x SPAM ʜᴇʀᴇ"
 
 TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌=≡❰ • WANDERING SOUL ɪꜱ ᴀʟɪᴠᴇ • ❱≡=\n"
