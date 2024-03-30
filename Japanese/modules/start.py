@@ -41,7 +41,7 @@ async def start(event):
         TEXT += f"» **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 ❤️:** `{__version__}`\n══════════════════"
         await event.client.send_file(
             event.chat_id,
-            "https://graph.org/file/7c16394971d6205bc4902.jpg",
+            "https://graph.org/file/0be6202eab47427709ee6.mp4",
             caption=TEXT,
             buttons=START_OP
         )
